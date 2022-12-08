@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "href": "https://www.instagram.com/wantedjobs.kr/",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_instagram.png&w=20&q=100",
+        "alt": "instagram"
+    },
+    {
+        "id": 1,
+        "href": "https://www.youtube.com/channel/UC0tGZ6MqieGG2m5lA5PeQsw",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_youtube.png&w=25&q=100",
+        "alt": "youtube"
+    },
+    {
+        "id": 2,
+        "href": "https://www.facebook.com/wantedkr",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_facebook.png&w=20&q=100",
+        "alt": "facebook"
+    },
+    {
+        "id": 3,
+        "href": "https://blog.naver.com/wantedlab",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_blog.png&w=20&q=100",
+        "alt": "blog"
+    },
+    {
+        "id": 4,
+        "href": "https://pf.kakao.com/_XqCIxl",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_kakao.png&w=19&q=100",
+        "alt": "kakao"
+    },
+    {
+        "id": 5,
+        "href": "https://post.naver.com/my.nhn?memberNo=18284175",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_post.png&w=20&q=100",
+        "alt": "post"
+    },
+    {
+        "id": 6,
+        "href": "https://apps.apple.com/kr/app/id1074569961",
+        "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fuserweb%2Fsocial_apple.png&w=17&q=100",
+        "alt": "apple"
+    }
+]

@@ -1,0 +1,95 @@
+{
+    "CompanyList": [
+        {
+            "id": 0,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F21749%2Fymimve1pltmzbgpg__400_400.jpg&w=400&q=75",
+            "h1": "ML 엔지니어",
+            "h2": "올빅뎃",
+            "h3": "서울・한국",
+            "응답률": 100,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 1,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F30060%2F2kv1lzaldpg8usv1__400_400.jpg&w=400&q=75",
+            "h1": "[전문연구요원 가능] 의료영상 분석을 위한 인공지능 연구원",
+            "h2": "메디인테크",
+            "h3": "서울・한국",
+            "응답률": 51,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 2,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F27141%2Fpegmb0arnbho3sc1__400_400.jpg&w=400&q=75",
+            "h1": "아트디렉터, 비주얼디렉터 (AD)",
+            "h2": "비마르",
+            "h3": "서울・한국",
+            "응답률": 100,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 3,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F1916%2Fglvfqivtej5hfo9m__400_400.jpg&w=400&q=75",
+            "h1": "[전문연구요원 가능] 의료영상 분석을 위한 인공지능 연구원",
+            "h2": "SKT",
+            "h3": "서울・한국",
+            "응답률": 10,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 4,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F1010%2F3163_2_0.__400_400.jpg&w=400&q=75",
+            "h1": "ML 엔지니어",
+            "h2": "올빅뎃",
+            "h3": "서울・한국",
+            "응답률": 100,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 5,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F26436%2Fcu3ass25okyenytl__400_400.jpg&w=400&q=75",
+            "h1": "[전문연구요원 가능] 의료영상 분석을 위한 인공지능 연구원",
+            "h2": "메디인테크",
+            "h3": "서울・한국",
+            "응답률": 51,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 6,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F141%2Fro2of6lu5ecb3ml7__400_400.png&w=400&q=75",
+            "h1": "아트디렉터, 비주얼디렉터 (AD)",
+            "h2": "비마르",
+            "h3": "서울・한국",
+            "응답률": 100,
+            "채용보상금": 1000000
+        },
+        {
+            "id": 7,
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fcompany%2F21956%2Fo8y97tct4ayejhxn__400_400.jpg&w=400&q=75",
+            "h1": "[전문연구요원 가능] 의료영상 분석을 위한 인공지능 연구원",
+            "h2": "SKT",
+            "h3": "서울・한국",
+            "응답률": 10,
+            "채용보상금": 1000000
+        }
+    ],
+
+    "KeyWord": [
+        "연봉이 최고의 복지",
+        "재택 근무",
+        "퇴사율 10%이하",
+        "급성장 중",
+        " 벙역특례",
+        "50인 이하",
+        "50인 이상",
+        "업력 5년 이상",
+        "50인 이상",
+        "업력 5년 이상",
+        "급성장 중",
+        " 벙역특례",
+        "50인 이하",
+        "50인 이상",
+        "급성장 중",
+        "벙역특례"
+    ]
+}

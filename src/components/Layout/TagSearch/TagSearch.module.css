@@ -1,0 +1,238 @@
+.container {
+    display: block;
+    width: 100%;
+    background-color: #fff;
+    margin-top: 100px;
+}
+
+.headerClass {
+    position: relative;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1060px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #333;
+    text-align: center;
+    padding: 30px 0;
+    height: 32px;
+}
+.headerClass h2 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #333;
+    text-align: center;
+}
+
+.closeButton {
+    width: 11px !important;
+    height: 11px !important;
+    margin: 10px 20px 10px 5px !important;
+    cursor: pointer;
+}
+.headerClass img {
+    vertical-align: text-top;
+    margin-left: 8px;
+    width: 14px;
+    height: 14px;
+    transition: all ease 1s;
+}
+.turn img {
+    transform: rotate(180deg);
+}
+.tagShow {
+    text-align: right;
+    line-height: 15px;
+    cursor: pointer;
+    width: 80px;
+    position: absolute;
+    right: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #268bf7;
+}
+.tagClass {
+    margin: auto;
+    position: relative;
+    width: 90%;
+    max-width: 1060px;
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.tagClass button {
+    height: 46px;
+    line-height: 46px;
+}
+
+.tagClass h1 {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 42px;
+    margin-right: 6px;
+    font-size: 14px;
+    text-align: right;
+    color: #111;
+}
+
+.button {
+    cursor: pointer;
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 0 26px;
+    background-color: #f3f5f8;
+    border-radius: 25px;
+    border: none;
+}
+
+.tagWrapperContainer {
+    position: relative;
+}
+.tagWrapperContainer::after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 1060px;
+    height: 50px;
+    background: linear-gradient(to right, yellow 50%, red 60%, purple);
+    background: linear-gradient(hsla(0, 0%, 100%, 0), #fff);
+}
+.tagWrapper {
+    position: relative;
+    width: 1060px;
+    height: 225px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+
+.tagWrapper::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera*/
+}
+.tagCategory {
+    display: flex;
+    float: left;
+    width: 1060px;
+    height: 50px;
+}
+.tagCategory button {
+    font-size: 13px;
+    font-weight: 400;
+    color: #333;
+    padding: 0 17px;
+    height: 38px;
+    line-height: 38px;
+    margin-bottom: 10px;
+}
+
+.tagCategoryTittle {
+    float: left;
+    width: 80px;
+    height: 38px;
+    line-height: 38px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #111;
+}
+.tagCategoryButton {
+    display: flex;
+}
+
+.listContainer {
+    width: 100%;
+    background-color: rgb(248, 246, 246);
+    height: 100%;
+    min-height: 800px;
+}
+
+.list {
+    margin: auto;
+    width: 1060px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.title {
+    position: relative;
+    height: 50px;
+}
+.title h3 {
+    position: absolute;
+    left: 60px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+}
+.logo {
+    position: absolute;
+    left: 0;
+    width: 50;
+    height: 50px;
+    border: 1px solid rgb(196, 194, 194);
+}
+.title button {
+    position: absolute;
+    width: 70px;
+    right: 0;
+    border: 1px solid #e1e2e3 !important;
+    height: 30px;
+    font-size: 14px;
+    color: #36f;
+    border-radius: 50px;
+    font-weight: 700;
+    background-color: #fff;
+}
+
+.tags {
+    margin-top: 20px;
+    width: 100%;
+    height: 20px;
+    overflow: hidden;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #999;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-spacing: 10px;
+}
+.company {
+    background-color: #fff;
+    width: calc(50% - 60px);
+    margin: 10px;
+    padding: 20px;
+}
+
+.color {
+    background: #eaf5ff;
+    color: blue !important;
+}
+
+.loading img {
+    position: fixed;
+    top: 50%;
+    left: 45%;
+}
+
+button {
+    font-size: 50px;
+}
+/* // return () => {
+//     window.removeEventListener('click', OneClick);
+// }; */

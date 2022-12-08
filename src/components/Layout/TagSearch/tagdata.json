@@ -1,0 +1,259 @@
+{
+    "tags": [
+        {
+            "name": "업계연봉수준",
+            "tags": [
+                {
+                    "tag": "#연봉업계평균이상",
+                    "id": 1
+                },
+                {
+                    "tag": "#연봉상위1%",
+                    "id": 2
+                },
+                {
+                    "tag": "#연봉상위2~5%",
+                    "id": 3
+                },
+                {
+                    "tag": "#연봉상위6~10%",
+                    "id": 4
+                },
+                {
+                    "tag": "#연봉상위11~20%",
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "name": "인원성장률",
+            "tags": [
+                {
+                    "tag": "#인원성장",
+                    "id": 6
+                },
+                {
+                    "tag": "#인원급성장",
+                    "id": 7
+                }
+            ]
+        },
+        {
+            "name": "투자",
+            "tags": [
+                {
+                    "tag": "#누적투자100억이상",
+                    "id": 8
+                }
+            ]
+        },
+        {
+            "name": "퇴사율",
+            "tags": [
+                {
+                    "tag": "#퇴사율5%이하",
+                    "id": 9
+                },
+                {
+                    "tag": "#퇴사율6~10%",
+                    "id": 10
+                }
+            ]
+        },
+        {
+            "name": "업력",
+            "tags": [
+                {
+                    "tag": "#설립3년이하",
+                    "id": 11
+                },
+                {
+                    "tag": "#설립4~9년",
+                    "id": 12
+                },
+                {
+                    "tag": "#설립10년이상",
+                    "id": 13
+                }
+            ]
+        },
+        {
+            "name": "근무·휴가",
+            "tags": [
+                {
+                    "tag": "#야근없음",
+                    "id": 14
+                },
+                {
+                    "tag": "#유연근무",
+                    "id": 15
+                },
+                {
+                    "tag": "#주35시간",
+                    "id": 16
+                },
+                {
+                    "tag": "#육아휴직",
+                    "id": 17
+                },
+                {
+                    "tag": "#출산휴가",
+                    "id": 18
+                }
+            ]
+        },
+        {
+            "name": "보상",
+            "tags": [
+                {
+                    "tag": "#성과급",
+                    "id": 19
+                },
+                {
+                    "tag": "#상여금",
+                    "id": 20
+                },
+                {
+                    "tag": "#연말보너스",
+                    "id": 21
+                },
+                {
+                    "tag": "#스톡옵션",
+                    "id": 22
+                }
+            ]
+        },
+        {
+            "name": "식사·간식",
+            "tags": [
+                {
+                    "tag": "#과일",
+                    "id": 23
+                },
+                {
+                    "tag": "#음료",
+                    "id": 24
+                }
+            ]
+        },
+        {
+            "name": "",
+            "tags": []
+        }
+    ],
+
+    "list": [
+        {
+            "name": "피제이팩토리",
+            "url": "https://static.wanted.co.kr/images/wdes/0_5_a579e59c-d3a0-4db4-82f3-d908f47c1e82.jpg",
+            "tags": ["#인원성장", "#연봉상위1%", "#간식", "#인원급성장", "#연봉상위6~10%"]
+        },
+
+        {
+            "name": "비유피홀딩스",
+            "url": "https://static.wanted.co.kr/images/wdes/0_5_e33debd9-a446-4bf7-8af5-6ca6777a1895.jpg",
+            "tags": ["#인원성장", "#인원급성장", "#간식", "#음료", "#연봉상위2~5%", "#연봉상위1%"]
+        },
+        {
+            "name": "코쿤게임즈",
+            "url": "https://static.wanted.co.kr/images/wdes/598_5_logo_cocoon.jpg",
+            "tags": ["#인원성장", "#안마의자", "#간식", "#음료", "#리프레시휴가"]
+        },
+        {
+            "name": "스케인글로브",
+            "url": "https://static.wanted.co.kr/images/wdes/851_5_logo_globe.jpg",
+            "tags": ["#검강검진", "#안마의자", "#간식", "#음료", "#리프레시휴가"]
+        },
+        {
+            "name": "더제이",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#자기계발", "#교육비", "#동호회", "#건강검진", "#와인"]
+        },
+        {
+            "name": "SKT",
+            "url": "https://static.wanted.co.kr/images/wdes/598_5_logo_cocoon.jpg",
+            "tags": ["#연봉상위11~20%", "#안마의자", "#간식", "#음료", "#리프레시휴가"]
+        },
+        {
+            "name": "KT",
+            "url": "https://static.wanted.co.kr/images/wdes/851_5_logo_globe.jpg",
+            "tags": ["#검강검진", "#안마의자", "#간식", "#음료", "#인원급성장"]
+        },
+        {
+            "name": "LGU",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#자기계발", "#교육비", "#동호회", "#건강검진", "#와인"]
+        },
+        {
+            "name": "Apple",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#301~1,000명", "#교육비", "#동호회", "#퇴사율5%이하", "#와인"]
+        },
+
+        {
+            "name": "스케인글로브",
+            "url": "https://static.wanted.co.kr/images/wdes/851_5_logo_globe.jpg",
+            "tags": ["#검강검진", "#안마의자", "#간식", "#음료", "#퇴사율5%이하"]
+        },
+        {
+            "name": "더제이",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#자기계발", "#교육비", "#동호회", "#건강검진", "#와인"]
+        },
+        {
+            "name": "SKT",
+            "url": "https://static.wanted.co.kr/images/wdes/598_5_logo_cocoon.jpg",
+            "tags": ["#연봉상위11~20%", "#안마의자", "#간식", "#음료", "#리프레시휴가"]
+        },
+        {
+            "name": "KT",
+            "url": "https://static.wanted.co.kr/images/wdes/851_5_logo_globe.jpg",
+            "tags": ["#퇴사율5%이하", "#안마의자", "#간식", "#음료", "#인원급성장"]
+        },
+        {
+            "name": "LGU",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#자기계발", "#301~1,000명", "#연봉상위2~5%", "#건강검진", "#와인"]
+        },
+        {
+            "name": "Apple",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#성과급", "#교육비", "#동호회", "#퇴사율5%이하", "#퇴사율5%이하"]
+        },
+        {
+            "name": "스케인글로브",
+            "url": "https://static.wanted.co.kr/images/wdes/851_5_logo_globe.jpg",
+            "tags": ["#성과급", "#안마의자", "#설립10년이상", "#상여금", "#퇴사율5%이하"]
+        },
+        {
+            "name": "더제이",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#자기계발", "#교육비", "#주35시간", "#출산휴가", "#야근없음"]
+        },
+        {
+            "name": "SKT",
+            "url": "https://static.wanted.co.kr/images/wdes/598_5_logo_cocoon.jpg",
+            "tags": ["#연봉상위11~20%", "#안마의자", "#간식", "#연말보너스", "#스톡옵션"]
+        },
+        {
+            "name": "Apple",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#성과급", "#교육비", "#동호회", "#퇴사율5%이하", "#퇴사율5%이하"]
+        },
+        {
+            "name": "스케인글로브",
+            "url": "https://static.wanted.co.kr/images/wdes/851_5_logo_globe.jpg",
+            "tags": ["#성과급", "#야근없음", "#설립10년이상", "#유연근무", "#퇴사율5%이하"]
+        },
+        {
+            "name": "더제이",
+            "url": "https://static.wanted.co.kr/images/wdes/769_5_logo_j.jpg",
+            "tags": ["#육아휴직", "#퇴사율6~10%", "#주35시간", "#출산휴가", "#설립4~9년"]
+        },
+        {
+            "name": "SKT",
+            "url": "https://static.wanted.co.kr/images/wdes/598_5_logo_cocoon.jpg",
+            "tags": ["#연봉상위11~20%", "#누적투자100억이상", "#간식", "#연말보너스", "#스톡옵션"]
+        }
+    ]
+}
