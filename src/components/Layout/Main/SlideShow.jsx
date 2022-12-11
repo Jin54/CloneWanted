@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 
-const SlideShow = props => {
+const SlideShow = (props) => {
     const slideLength = 9; // 전체 슬라이드 개수
     const slideWidth = 1080;
     const [slideIndex, setSlideIndex] = useState(2);
@@ -16,7 +16,7 @@ const SlideShow = props => {
 
         setslidesWidthx(slideWidth * slideLength);
         const timer = setInterval(() => {
-            moveSlide(prev => (prev >= 7 ? 2 : prev + 1));
+            moveSlide((prev) => (prev >= 7 ? 2 : prev + 1));
         }, 5000);
         clearInterval(timer);
     }, []);
@@ -56,32 +56,32 @@ const SlideShow = props => {
         <div id="slideShow">
             <ul className="slides" style={{ left: slidePx + balance + 'px', width: slidesWidth + 'px', transition: transition + 's ease-out ' }}>
                 <li>
-                    <img src={require('../../../images/banner4.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner4.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner5.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner5.png" alt="" />
                 </li>
 
                 <li>
-                    <img src={require('../../../images/banner1.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner1.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner2.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner2.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner3.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner3.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner4.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner4.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner5.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner5.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner1.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner1.png" alt="" />
                 </li>
                 <li>
-                    <img src={require('../../../images/banner2.png')} alt="" />
+                    <img src="https://jin54-bucket.s3.ap-northeast-2.amazonaws.com/images/banner2.png" alt="" />
                 </li>
             </ul>
             <p className="controller">
