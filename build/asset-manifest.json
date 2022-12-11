@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1235422.css",
+    "main.js": "/static/js/main.d2f229ff.js",
+    "static/media/detail3.webp": "/static/media/detail3.6a31402ccdd968081438.webp",
+    "static/media/banner2.png": "/static/media/banner2.646d54e6d1c9e198f5db.png",
+    "static/media/detail4.webp": "/static/media/detail4.994b65959c0915c37a3f.webp",
+    "static/media/detail1.webp": "/static/media/detail1.bcb0332bb4b95dd53cb7.webp",
+    "static/media/banner4.png": "/static/media/banner4.b3f0eeda89ff4d347951.png",
+    "static/media/detail2.webp": "/static/media/detail2.22c7db5d4e7b6655242e.webp",
+    "static/media/pass.png": "/static/media/pass.1622bb52ffdf959ec4d0.png",
+    "static/media/logo.png": "/static/media/logo.33f94ba6e410d92d4396.png",
+    "static/media/banner5.png": "/static/media/banner5.184fe4734cb6c5b5455e.png",
+    "static/media/user.png": "/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "static/media/profile.png": "/static/media/profile.a11eb45173ec594f0097.png",
+    "static/media/banner3.png": "/static/media/banner3.1b6be729da52d1b72af7.png",
+    "static/media/logo2.webp": "/static/media/logo2.e6437c2b9cbefc23b6c8.webp",
+    "static/media/question.svg": "/static/media/question.a45a989f1346977263e79fd4ca7fa5c2.svg",
+    "index.html": "/index.html",
+    "main.b1235422.css.map": "/static/css/main.b1235422.css.map",
+    "main.d2f229ff.js.map": "/static/js/main.d2f229ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1235422.css",
+    "static/js/main.d2f229ff.js"
+  ]
+}
